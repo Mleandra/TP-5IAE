@@ -1,0 +1,10 @@
+pandas
+tensorflow 
+scikit-learn
+numpy
+matplotlib
+seaborn
+faker
+xgboost
+flask
+nltk  
